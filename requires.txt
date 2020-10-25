@@ -1,0 +1,7 @@
+For run script deepends:
+------------------------
+Python ( version 2.x.x )
+string ( python lib )
+os ( python lib )
+termcolor ( python lib )
+time ( python lib )
