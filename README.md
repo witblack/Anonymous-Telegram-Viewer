@@ -22,8 +22,8 @@ Https://BugZone.ir
 📹 YouTube:
 https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg (WitBlack)
 
-🎥 Aparat:
-Https://aparat.com/WitBlack
+📱 Instagram:
+https://instagram.com/WitBlack80
 
 ⌨️ Github:
 Https://github.com/WitBlack
@@ -34,4 +34,4 @@ admin@bugzone.ir
 
 Info
 -
-Copy right 2020, Powered By WitBlack. Web ~> https://BugZone.ir
+Copy right 2021, Powered By WitBlack. Web ~> https://BugZone.ir
